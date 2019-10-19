@@ -10,6 +10,6 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Publications"
-    url: /publications/
-  - title: "Web Editing"
+    url: /publications/    
+  - title: "Website"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

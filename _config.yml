@@ -26,7 +26,7 @@ description              : "Laboratório de Dados Sociais"
 url                      : "https://labds.github.io"
 baseurl                  : "/web"
 repository               : "labds/web"
-teaser                   : # "/assets/dots_wide.png"
+teaser                   : "/assets/dots_wide.png"
 logo                     : "/assets/images/dots.png"
 twitter_username: username
 github_username: username
@@ -67,8 +67,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "LAB-DS"
-  avatar : "/assets/images/dots.png"
+  #name   : "LAB-DS"
+  #avatar : "/assets/images/dots.png"
   bio    : "LAB-DS is a git-based, multi-institution and collaborative research platform focused on the collection, management and analysis of social and economic data"
   links:
     - label: "Email"
