@@ -26,7 +26,6 @@ description              : "Laboratório de Dados Sociais"
 url                      : "https://labds.github.io"
 baseurl                  : "/web"
 repository               : "labds/web"
-teaser                   : "/assets/dots_wide.png"
 logo                     : "/assets/images/dots.png"
 twitter_username: username
 github_username: username
@@ -71,6 +70,9 @@ author:
   #avatar : "/assets/images/dots.png"
   bio    : "LAB-DS is a git-based, multi-institution and collaborative research platform focused on the collection, management and analysis of social and economic data"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/labds"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:hugo.figueiredo@ua.pt
@@ -83,9 +85,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
