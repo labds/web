@@ -4,7 +4,7 @@ main:
   - title: "People"
     url: /categories/
   - title: "Labs"
-    url: /pages/
+    url: /labs/
   - title: "Data"
     url: /labs/
   - title: "Projects"
