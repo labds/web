@@ -104,7 +104,7 @@ footer:
 
 collections:
   people:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 defaults:
@@ -121,7 +121,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
