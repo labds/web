@@ -101,6 +101,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - logo: "/assets/images/dots.png"
+    - logo: "/assets/images/dots.png"
+    - logo: "/assets/images/dots.png"
+    - logo: "/assets/images/dots.png"
 
 defaults:
   # _posts
