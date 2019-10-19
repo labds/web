@@ -104,7 +104,7 @@ footer:
 
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 defaults:
