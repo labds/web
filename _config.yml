@@ -67,10 +67,7 @@ plugins:
 
 author:
   #name   : "LAB-DS"
-  #avatar : "/assets/images/dots.png"
-  avatar : "/assets/images/dots.png"
-  avatar : "/assets/images/dots.png"
-  avatar : "/assets/images/dots.png"
+  avatar : ""
   bio    : "LAB-DS is a git-based, multi-institution and collaborative research platform focused on the collection, management and analysis of social and economic data"
   links:
     - label: "GitHub"
