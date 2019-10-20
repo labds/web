@@ -104,7 +104,7 @@ footer:
 
 collections:
   people:
-    output: false
+    output: true
     permalink: /:collection/:name/
 
 defaults:
