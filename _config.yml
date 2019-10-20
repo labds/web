@@ -67,7 +67,7 @@ plugins:
 
 author:
   #name   : "LAB-DS"
-  avatar : ""
+  #avatar : ""
   bio    : "LAB-DS is a git-based, multi-institution and collaborative research platform focused on the collection, management and analysis of social and economic data"
   links:
     - label: "GitHub"
@@ -105,7 +105,7 @@ footer:
 collections:
   people:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 defaults:
   # _posts
@@ -132,8 +132,8 @@ defaults:
       type: people
     values:
       layout: single
-      author_profile: false
-      share: true
+      author_profile: true
+      share: false
 
 category_archive:
   type: liquid
