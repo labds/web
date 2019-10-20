@@ -128,8 +128,8 @@ defaults:
       author_profile: true
   # _people
   - scope:
-      path: "_people"
-      type: portfolio
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: true
