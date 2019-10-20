@@ -110,7 +110,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -128,7 +128,7 @@ defaults:
       author_profile: true
   # _people
   - scope:
-      path: "_people"
+      path: ""
       type: people
     values:
       layout: single
@@ -137,7 +137,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /collection/
+  path: /people/
 tag_archive:
   type: liquid
   path: /tags/
