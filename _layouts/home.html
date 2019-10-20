@@ -1,4 +1,40 @@
 ---
-layout: single
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/dots_wide.png
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  Projects<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
+feature_row:
+  - image_path: /assets/images/dots.png
+    alt: "p1"
+    title: "Project 1"
+    excerpt: "Project 1"
+    url: "/pages/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/dots.png
+    alt: "p2"
+    title: "Project2"
+    excerpt: "Project 2"
+    url: "/pages/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/dots.png
+    alt: "p3"
+    title: "Project3"
+    excerpt: "Project 3"
+    url: "/pages/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"    
 ---
+
+{% include feature_row %}
+
+
 
