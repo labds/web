@@ -1,6 +1,4 @@
 ---
-permalink: /people/
-
 name: Hugo Figueiredo
 
 position: Researcher
