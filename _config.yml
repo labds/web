@@ -111,14 +111,14 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: pages
+      path: "_posts"
+      type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
