@@ -105,7 +105,7 @@ footer:
 collections:
   people:
     output: true
-    permalink: /:people/:name/
+    permalink: /:collection/:name/
 
 defaults:
   # _posts
