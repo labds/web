@@ -104,7 +104,7 @@ footer:
 
 collections:
   people:
-    output: true
+    output: false
     permalink: /:collection/:name/
 
 defaults:
@@ -137,7 +137,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /people/
 tag_archive:
   type: liquid
   path: /tags/
