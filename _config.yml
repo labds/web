@@ -138,7 +138,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /people/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
