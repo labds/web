@@ -2,12 +2,6 @@
 permalink: /people/
 
 title:"Researchers"
-
-gallery:
--url: /assets/images/hf.jpg
-image_path:/assets/images/hf-th.jpg
-alt: "hf"
-title: "Hugo Figueiredo"
 ---
 
 {% for staff_member in site.staff_members %}
