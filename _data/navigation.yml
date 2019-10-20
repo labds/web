@@ -11,5 +11,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/    
+  - title: "Partners"
+    url: /partners/  
   - title: "Website"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
