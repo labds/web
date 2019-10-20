@@ -68,6 +68,9 @@ plugins:
 author:
   #name   : "LAB-DS"
   #avatar : "/assets/images/dots.png"
+  avatar : "/assets/images/dots.png"
+  avatar : "/assets/images/dots.png"
+  avatar : "/assets/images/dots.png"
   bio    : "LAB-DS is a git-based, multi-institution and collaborative research platform focused on the collection, management and analysis of social and economic data"
   links:
     - label: "GitHub"
@@ -88,7 +91,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-  avatar : "/assets/images/dots.png"
+  
 
 footer:
   links:
